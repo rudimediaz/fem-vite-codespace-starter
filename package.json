@@ -1,0 +1,28 @@
+{
+  "name": "vite-vanilla-codespace-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private" : true,
+  "scripts": {
+    "dev" : "vite",
+    "preview" : "vite preview",
+    "build" : "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudimediaz/vite-vanilla-codespace-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudimediaz/vite-vanilla-codespace-starter/issues"
+  },
+  "homepage": "https://github.com/rudimediaz/vite-vanilla-codespace-starter#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "pretty-quick": "^3.1.3",
+    "vite": "^3.1.1"
+  }
+}
