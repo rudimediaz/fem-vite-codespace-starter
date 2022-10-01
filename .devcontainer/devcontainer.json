@@ -20,9 +20,8 @@
 				"dbaeumer.vscode-eslint",
 				"esbenp.prettier-vscode",
 				"miguelsolorio.fluent-icons",
-				"EliverLara.sweet-vscode-icons",
-				"Endormi.2077-theme",
-				"eamodio.gitlens"
+				"eamodio.gitlens",
+				"PKief.material-icon-theme"
 			]
 		}
 	},
